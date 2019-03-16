@@ -22,6 +22,7 @@ public class CsvRead {
 		for(String ColData:rowData)
 		{
 			System.out.println(ColData);
+			System.out.println("Hi");
 		}
 	}
 	
